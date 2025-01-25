@@ -31,5 +31,21 @@ The E-Learning Platform UI is designed to provide a seamless and engaging user e
 **OUTPUT**
 
 
+![Image](https://github.com/user-attachments/assets/e0844a41-7aa2-4f82-8e21-994fb6c0d7f0)
+
+
+![Image](https://github.com/user-attachments/assets/6e9fe98f-ef83-448f-a52f-a26064cfd048)
+
+
+![Image](https://github.com/user-attachments/assets/b770d6ca-931f-404e-8db9-d4ceadc22997)
+
+
+![Image](https://github.com/user-attachments/assets/cbd62477-390c-469c-9ec1-d5657e3c2fc2)
+
+
+![Image](https://github.com/user-attachments/assets/5c02f8cb-3639-4896-925a-4a39a0249fb2)
+
+
+
 
 
